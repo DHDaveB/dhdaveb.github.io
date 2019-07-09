@@ -1,7 +1,7 @@
 # Site
 name: "DaveLogs"
 title: "DaveLogs"
-description: "Jekyll template, Medium styled, free for bloggers."
+description: "Machine Learning, Computer Vision, Travel, Photography and so on."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/' # /mediumish-theme-jekyll
@@ -21,7 +21,7 @@ authors:
     email: 
     web: https://dhdaveb.github.io/
     twitter:
-    description: "Owner of DaveLogs, Software engineer and ... Owner of DaveLogs, Software engineer and ... Owner of DaveLogs, Software engineer and ... Owner of DaveLogs, Software engineer and ..."
+    description: "Strike while the iron is hot."
   sal:
     name: Sal
     display_name: Sal
