@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tensorflow Object Detection API"
-author: sal
+author: dave
 categories: [ DeepLearning, ObjectDetection ]
 image: assets/images/5.jpg
 description: "Something about this post here"
