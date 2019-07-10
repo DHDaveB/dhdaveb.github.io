@@ -17,7 +17,8 @@ authors:
   dave:
     name: dave
     display_name: _dave
-    gravatar: 'assets/images/avatar-dave.png'
+    avatar: 'assets/images/avatar-dave.png'
+    gravatar: 
     email: 
     web: https://dhdaveb.github.io/
     twitter:
