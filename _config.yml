@@ -17,11 +17,11 @@ authors:
   dave:
     name: dave
     display_name: _dave
-    gravatar:
+    gravatar: 'assets/images/avatar-dave.png'
     email: 
     web: https://dhdaveb.github.io/
     twitter:
-    description: "Strike while the iron is hot."
+    description: "I am a software engineer who likes to research Machine Learning and Computer Vision."
   sal:
     name: Sal
     display_name: Sal
