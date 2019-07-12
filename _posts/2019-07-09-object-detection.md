@@ -131,17 +131,16 @@ OK
 
 웹브라우저에서 localhost:8888/tree가 열리면, object_detection 디렉토리 내에 object_detection_tutorial.ipynb를 열어 실행시켜 보면 다음과 같이 인식한 결과가 나올 것이다.
 
-![jupyter notebook's code]({{ site.baseurl }}/assets/images/posts/object_detection_tutorial_001.png)
-![object detection result]({{ site.baseurl }}/assets/images/posts/object_detection_tutorial_002.png)
-![object detection result]({{ site.baseurl }}/assets/images/posts/object_detection_tutorial_003.png)
+![jupyter notebook's code]({{ site.baseurl }}/assets/images/posts/0001.png)
+![object detection result]({{ site.baseurl }}/assets/images/posts/0002.png)
+![object detection result]({{ site.baseurl }}/assets/images/posts/0003.png)
 
 ---
 ## 참고
 
-Tensorflow Object Detection 원본 설치 문서:
-https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md
+* [Tensorflow Object Detection 원본 설치 문서](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md)
+* [Tensorflow detection model zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md)
 
-Tensorflow detection model zoo:
-https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
+
 
 

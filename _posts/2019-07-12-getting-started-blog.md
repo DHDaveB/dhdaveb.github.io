@@ -4,7 +4,7 @@ title:  "블로그를 시작하기에 앞서"
 author: dave
 categories: [ Blog ]
 tag: [Blog, Naver, Tistory, Brunch, Wordpress, Medium, GitHub, Markdown, AdSense, 블로그, 네이버, 티스토리, 브런치, 워드프레스, 미디엄, 깃허브, 마크다운, 애드센스]
-image: assets/images/posts/0001.jpg
+image: assets/images/posts/0004.jpg
 description: "다시 블로그를 시작하기에 앞서 블로그 플랫폼들의 특징을 간단히 비교해 보았다"
 featured: true
 ---
