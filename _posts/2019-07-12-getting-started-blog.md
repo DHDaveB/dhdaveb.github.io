@@ -178,7 +178,7 @@ hidden: true
 
 ## 참고
 
-* [새로운 블로그 - 깃헙페이지(Github Page) 정착기](https://hyungyunlim.github.io/2017-06-11/start-blogging){: target="_blank"}
-* [블로그 서비스 선택기](https://medium.com/@wondersoong/블로그-서비스-선택기-9e2ca4a7a14a){: target="_blank"}
-* [[블로그별 특징 비교 정리] 네이버, 티스토리, 브런치, 구글, 스팀잇, 워드프레스](https://m.blog.naver.com/ji_sung31/221275917945){: target="_blank"}
+* [새로운 블로그 - 깃헙페이지(Github Page) 정착기](https://hyungyunlim.github.io/2017-06-11/start-blogging)
+* [블로그 서비스 선택기](https://medium.com/@wondersoong/블로그-서비스-선택기-9e2ca4a7a14a)
+* [[블로그별 특징 비교 정리] 네이버, 티스토리, 브런치, 구글, 스팀잇, 워드프레스](https://m.blog.naver.com/ji_sung31/221275917945)
 
