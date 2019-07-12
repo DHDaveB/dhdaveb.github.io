@@ -7,6 +7,7 @@ tag: [Blog, Naver, Tistory, Brunch, Wordpress, Medium, GitHub, Markdown, AdSense
 image: assets/images/posts/0004.jpg
 description: "다시 블로그를 시작하기에 앞서 블로그 플랫폼들의 특징을 간단히 비교해 보았다"
 featured: true
+hidden: true
 ---
 
 다시 글을 써보겠다는 결심을 한 뒤 따라온 첫번째 고민이 바로 블로그 플랫폼의 선택이었다. 물론 기존에 사용했던 티스토리나 네이버 블로그를 계속 사용할 수도 있었지만, 뭔가 새로운 기분으로 시작하고픈 마음이 컸다. 또한, 어차피 기존 블로그를 통해 작성, 공개된 포스트는 얼마 안 되기에 마이그레이션도 과감히 포기할 수 있을 것 같았다.
