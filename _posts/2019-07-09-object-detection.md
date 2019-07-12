@@ -4,7 +4,7 @@ title:  "Tensorflow Object Detection API"
 author: dave
 categories: [ DeepLearning, ObjectDetection ]
 tags: [DeepLearning, MachineLearning, Tensorflow, ObjectDetection, 딥러닝, 머신러닝, 텐서플로우, 객체인식]
-image: assets/images/posts/0005.jpg
+image: assets/images/posts/0005.png
 description: "Tensorflow Object Detection API를 사용할 수 있는 환경을 구축한다."
 ---
 
