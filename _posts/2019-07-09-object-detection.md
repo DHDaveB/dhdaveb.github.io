@@ -3,6 +3,7 @@ layout: post
 title:  "Tensorflow Object Detection API"
 author: dave
 categories: [ DeepLearning, ObjectDetection ]
+tags: [DeepLearning, MachineLearning, Tensorflow, ObjectDetection, 딥러닝, 머신러닝, 텐서플로우, 객체인식]
 image: assets/images/5.jpg
 description: "Something about this post here"
 ---
@@ -119,6 +120,7 @@ Ran 18 tests in 0.059s
 OK
 ```
 
+---
 ## STEP 3: 사용하기
 설치가 끝났으니 테스트용 노트북 파일을 통해 실제로 이미지 속 객체가 인식되는 것을 확인해 본다.
 
@@ -129,9 +131,9 @@ OK
 
 웹브라우저에서 localhost:8888/tree가 열리면, object_detection 디렉토리 내에 object_detection_tutorial.ipynb를 열어 실행시켜 보면 다음과 같이 인식한 결과가 나올 것이다.
 
-![walking]({{ site.baseurl }}/assets/images/posts/object_detection_tutorial_001.png)
-![walking]({{ site.baseurl }}/assets/images/posts/object_detection_tutorial_002.png)
-![walking]({{ site.baseurl }}/assets/images/posts/object_detection_tutorial_003.png)
+![jupyter notebook's code]({{ site.baseurl }}/assets/images/posts/object_detection_tutorial_001.png)
+![object detection result]({{ site.baseurl }}/assets/images/posts/object_detection_tutorial_002.png)
+![object detection result]({{ site.baseurl }}/assets/images/posts/object_detection_tutorial_003.png)
 
 ---
 ## 참고
