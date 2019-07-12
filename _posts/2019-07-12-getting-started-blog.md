@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "다시 시작!"
+title:  "다시 블로그를 시작하다"
 author: dave
 categories: [ Blog ]
 tag: [Blog, Naver, Tistory, Brunch, Wordpress, Medium, GitHub, Markdown, AdSense, 블로그, 네이버, 티스토리, 브런치, 워드프레스, 미디엄, 깃허브, 마크다운, 애드센스]
