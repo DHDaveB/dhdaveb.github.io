@@ -43,20 +43,34 @@ description: "자주 사용하는 마크다운 사용법 정리"
 ### Headings
 
 ```markdown
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+# Heading level 1
+## Heading level 2
+###### Heading level 6
 ```
 
-> # This is an \<h1> tag
+> # Heading level 1
 >
-> ## This is an \<h2> tag
+> ## Heading level 2
 >
-> ###### This is an \<h6> tag
+> ###### Heading level 6
 
+#### Alternate Syntax
 
+```markdown
+Heading level 1
+===============
+```
 
+> Heading level 1
+> ===============
 
+```markdown
+Heading level 2
+---------------
+```
+
+> Heading level 2
+> ---------------
 
 
 
