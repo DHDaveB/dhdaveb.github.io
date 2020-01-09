@@ -73,8 +73,10 @@ description: "자주 사용하는 마크다운 사용법 정리"
 ## 참고
 
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-* [Getting Started | Markdown Guide](https://www.markdownguide.org/getting-started/)
+* [Getting Started \| Markdown Guide](https://www.markdownguide.org/getting-started/)
 * [마크다운 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+
+
 
 
 
