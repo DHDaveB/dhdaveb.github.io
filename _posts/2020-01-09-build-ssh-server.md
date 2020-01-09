@@ -2,8 +2,8 @@
 layout: post
 title:  "SSH 서버 구축하기"
 author: dave
-categories: [ DevOps ]
-tag: [Ubuntu, DevOps, SSH, Terminal, 우분투, 개발환경, 터미널]
+categories: [ Development ]
+tag: [Ubuntu, Development, SSH, Terminal, 우분투, 개발환경, 터미널]
 image: assets/images/posts/2020-01-09-build-ssh-server/0001.jpg
 description: "Ubuntu 서버에 SSH를 통해 원격 접속할 수 있는 방법을 정리"
 featured: true
