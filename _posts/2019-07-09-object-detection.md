@@ -4,7 +4,7 @@ title:  "Tensorflow Object Detection API"
 author: dave
 categories: [ DeepLearning, ObjectDetection ]
 tags: [DeepLearning, MachineLearning, Tensorflow, ObjectDetection, 딥러닝, 머신러닝, 텐서플로우, 객체인식]
-image: assets/images/posts/0005.png
+image: assets/images/posts/2019-07-09-object-detection/0004.png
 description: "Tensorflow Object Detection API를 사용할 수 있는 환경을 구축한다."
 ---
 
@@ -131,9 +131,9 @@ OK
 
 웹브라우저에서 localhost:8888/tree가 열리면, object_detection 디렉토리 내에 object_detection_tutorial.ipynb를 열어 실행시켜 보면 다음과 같이 인식한 결과가 나올 것이다.
 
-![jupyter notebook's code]({{ site.baseurl }}/assets/images/posts/0001.png)
-![object detection result]({{ site.baseurl }}/assets/images/posts/0002.png)
-![object detection result]({{ site.baseurl }}/assets/images/posts/0003.png)
+![jupyter notebook's code]({{ site.baseurl }}/assets/images/posts/2019-07-09-object-detection/0001.png)
+![object detection result]({{ site.baseurl }}/assets/images/posts/2019-07-09-object-detection/0002.png)
+![object detection result]({{ site.baseurl }}/assets/images/posts/2019-07-09-object-detection/0003.png)
 
 ---
 ## 참고
