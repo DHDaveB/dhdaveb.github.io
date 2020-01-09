@@ -44,7 +44,7 @@ description: "자주 사용하는 마크다운 사용법 정리"
 
 ## 제목 (Headings)
 
-```markdown
+```
 # Heading level 1
 ## Heading level 2
 ###### Heading level 6
@@ -58,7 +58,7 @@ description: "자주 사용하는 마크다운 사용법 정리"
 
 #### Alternate Syntax
 
-```markdown
+```
 Heading level 1
 ===============
 ```
@@ -66,7 +66,7 @@ Heading level 1
 > Heading level 1
 > ===============
 
-```markdown
+```
 Heading level 2
 ---------------
 ```
@@ -78,18 +78,18 @@ Heading level 2
 
 ## 강조 (Emphasis)
 
-```markdown
-\*This text will be italic\*
-\_This will also be italic\_
+```
+*This text will be italic*
+_This will also be italic_
 ```
 
 > *This text will be italic*
 >
 > _This will also be italic_
 
-```markdown
-\**This text will be bold\**
-\__This will also be bold\__
+```
+**This text will be bold**
+__This will also be bold__
 ```
 
 > **This text will be bold**
@@ -98,8 +98,8 @@ Heading level 2
 
 #### Examples
 
-```markdown
-\_You \**can\** combine them\_
+```
+_You **can** combine them_
 ```
 
 > _You **can** combine them_
@@ -110,8 +110,8 @@ Heading level 2
 
 ## 취소선 (Strikethrough)
 
-```markdown
-\~~This text will have a strikethrough\~~
+```
+~~This text will have a strikethrough~~
 ```
 
 > ~~This text will have a strikethrough~~
