@@ -40,15 +40,17 @@ description: "자주 사용하는 마크다운 사용법 정리"
 
 
 
-
-
 -----
 
 마크다운으로 열심히 표현해 보고 싶었지만, 티스토리에서는 도저히 깔끔하게 원하는 모습으로 표현할 방법이 없었다. 그래서, 스타일이 거의 적용되지 않고 날것의 마크다운의 모습을 보여주는 GitHub에 작성한 페이지의 링크로 대신하고자 한다. 
 
- 
 
-[GitHub | Awesome Markdown Guide](https://github.com/DHDaveB/awesome-markdown-guide) 
+
+[GitHub \| Awesome Markdown Guide](https://github.com/DHDaveB/awesome-markdown-guide)
+
+  
+
+  
 
 
 
@@ -58,5 +60,3 @@ description: "자주 사용하는 마크다운 사용법 정리"
 
 [^1]: 마크다운을 사용한다고 해서 HTML을 사용할 수 없다는 의미는 아니다. 마크다운 파일(.md)에 HTML 태그를 사용, 마크다운이 대체하지 못하는 마크업 기능을 표현할 수 있다.
 
-[
-](https://github.com/DHDaveB/awesome-markdown-guide)
