@@ -38,7 +38,7 @@ description: "자주 사용하는 마크다운 사용법 정리"
 >
 > 모든 HTML 마크업을 대체하지 못한다.  [^1]  
 
-[^1]: 마크다운을 사용한다고 해서 HTML을 사용할 수 없다는 의미는 아니다. 마크다운 파일(.md)에 HTML 태그를 사용, 마크다운이 대체하지 못하는 마크업 기능을 표현할 수 있다.
+
 
 
 
@@ -51,6 +51,12 @@ description: "자주 사용하는 마크다운 사용법 정리"
 [GitHub | Awesome Markdown Guide](https://github.com/DHDaveB/awesome-markdown-guide) 
 
 
+
+-----
+
+
+
+[^1]: 마크다운을 사용한다고 해서 HTML을 사용할 수 없다는 의미는 아니다. 마크다운 파일(.md)에 HTML 태그를 사용, 마크다운이 대체하지 못하는 마크업 기능을 표현할 수 있다.
 
 [
 ](https://github.com/DHDaveB/awesome-markdown-guide)
