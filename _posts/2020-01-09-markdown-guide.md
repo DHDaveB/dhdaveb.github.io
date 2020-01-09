@@ -38,13 +38,11 @@ description: "자주 사용하는 마크다운 사용법 정리"
 
 
 
-
-
-## Basic Syntax
+# Basic Syntax
 
 -----
 
-### Headings
+## 제목 (Headings)
 
 ```markdown
 # Heading level 1
@@ -78,17 +76,67 @@ Heading level 2
 
 
 
-## Extended Syntax
+## 강조 (Emphasis)
+
+```markdown
+\*This text will be italic\*
+\_This will also be italic\_
+```
+
+> *This text will be italic*
+>
+> _This will also be italic_
+
+```markdown
+\**This text will be bold\**
+\__This will also be bold\__
+```
+
+> **This text will be bold**
+>
+> __This will also be bold__
+
+#### Examples
+
+```markdown
+\_You \**can\** combine them\_
+```
+
+> _You **can** combine them_
+
+
+
+
+
+## 취소선 (Strikethrough)
+
+```markdown
+\~~This text will have a strikethrough\~~
+```
+
+> ~~This text will have a strikethrough~~
+
+
+
+
+
+## 리스트 (Lists)
+
+
+
+
+
+# Extended Syntax
 
 -----
 
-### Tables
+## 테이블 (Tables)
 
 
 
 
 
-## 참고
+# 참고
 
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Getting Started \| Markdown Guide](https://www.markdownguide.org/getting-started/)
